@@ -350,7 +350,7 @@ right: 20%;
   }
 }
 .content-container {
-  background: linear-gradient(to bottom, #f0f0f0, #e0e0e0); /* เปลี่ยนพื้นหลังของ content-container */
+  background: linear-gradient(to bottom, #f0f0f0, #e0e0e0);
   padding: 20px;
   border-radius: 8px; 
 }
