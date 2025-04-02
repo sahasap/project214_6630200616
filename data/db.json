@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "นาย สหทรัพย์ โพธิคำ",
+      "studentId": "6630200616",
+      "major": "วิทยาการคอมพิวเตอร์",
+      "school": "ธัญรัตน์",
+      "imageUrl": "/src/photo/sahsap.jpg"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "2",
+      "name": "ai",
+      "grade": "A",
+      "credit": "3"
+    },
+    {
+      "id": "3",
+      "name": "data",
+      "grade": "A",
+      "credit": "3"
+    },
+    {
+      "id": "4",
+      "name": "linear",
+      "grade": "B+",
+      "credit": "3"
+    },
+    {
+      "id": "5",
+      "name": "os",
+      "grade": "A",
+      "credit": "3"
+    }
+  ]
+}
