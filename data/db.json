@@ -14,7 +14,8 @@
       "id": "01418221",
       "name": "Fundamentals of Database Systems",
       "grade": "A",
-      "credit": "3"
+      "credit": "3",
+      "index": 0
     },
     {
       "id": "01418214",
